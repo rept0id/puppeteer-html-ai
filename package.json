@@ -8,8 +8,8 @@
     "build": "babel src --out-dir dist --extensions \".js,.mjs\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Rantouan Achmet <rad@simplecode.gr>",
+  "license": "GPL-3.0",
   "dependencies": {
     "puppeteer": "^23.0.1"
   },
