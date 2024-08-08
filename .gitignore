@@ -89,7 +89,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# dist # removed because there BABEL places CommonJS distribution
 
 # Gatsby files
 .cache/
