@@ -1,3 +1,3 @@
 # puppeteer-html-ai
 
-Under construction
+Tool for using Puppeteer to request HTML manipulations from ChatGPT.
